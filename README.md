@@ -1,4 +1,4 @@
-# Panama Papers Key Players
+# Panama Papers Key Actors
 
 # Abstract
 The Panama Papers are leaked documents that detail the internal operations of one of the world's biggest firms in incorporation of offshore entities, Mossack Fonseca. This Panamanian law firm and corporate service provider had financial and attorney-client information for more than 210 000 offshore entities revealed to the public. While offshore business entities are legal, reporters found that some of the Mossack Fonseca shell corporations were used for illegal purposes, namely fraud, tax evasion, and evading international sanctions.
