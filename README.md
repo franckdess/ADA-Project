@@ -32,4 +32,4 @@ Note that the list is pretty "high level" abstraction at the moment and more imp
 - Visualize answers to research questions
 
 # Questions for TAa
-Why is 42 the answer to life, the universe and everything ? Please provide a brief answer.
+It looks like that most of our work will be data acquisitition, transformation, exploratory analysis and visualization. Is it fine or do you expect some other kind of analysis to be performed ?
