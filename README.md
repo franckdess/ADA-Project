@@ -15,7 +15,7 @@ A list of research questions you would like to address during the project.
 
 # Dataset
 
-We would like to use the ICIJ Offshore Leaks Panama Papers Dataset found at: https://www.occrp.org/en/panamapapers/database
+We would like to use the ICIJ Offshore Leaks Panama Papers Dataset found at: https://www.occrp.org/en/panamapapers/database  
 The database is powered by Neo4j, a graph database. Moreover the dataset has also been made available as CSV files.
 
 # A list of internal milestones up until project milestone 2
