@@ -16,9 +16,8 @@ First, we intend to present key figures about the evolution of Mossack Fonseca's
 Actual research questions:  
   
 - Can we put the evolution of these metrics into historical context ?  
-- Is there a link between the economy of a country and its involvement in the papers ?
-- Is there a link between the laws and policies of a country and its involvement in the papers ?
-
+- Is there a link between the economy, laws and policies of a country and its involvement in the papers ?  
+  
 # Dataset
 
 We will use the ICIJ Offshore Leaks Panama Papers Dataset found at: https://www.occrp.org/en/panamapapers/database  
