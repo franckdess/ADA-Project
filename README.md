@@ -7,7 +7,7 @@ We intend to present key figures about the evolution of Mossack Fonseca's client
 
 # Research questions
 - What are the key figures about the evolution of Mossack Fonseca's clients at different scales over the span of 40 years ? How can we put these figures into historical (economy, laws, policies...) context ?
-- Is there a link between the economy, laws and policies of a country and its involvement in the papers ? That is what are the main correlates of evasion ?
+- Is there a link between economic and financial indicators and the involvement of a country ? That is what are the main correlates of evasion ?
 - What are the additional insights we may extract from a complete network analysis of the Panama Papers ? That is network nodes and edges statistics, centrality measures, main actors, top communities, pattern recognitions with ML and so on...
   
 # Dataset
@@ -23,7 +23,8 @@ Preliminary Data transformation-Done
 Enitity key figures-Done
 Intermediary key figures-Done
 Officer key figures-Done
-Put key figures into historical context-To do
+Nodes population relationship-Done
+Put key figures into historical context-Done
 Network basic statistics-To do
 What's next for Milestone 3 (i.e complete network analysis, correlates of evasion)-To do
 
