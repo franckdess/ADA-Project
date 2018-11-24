@@ -8,7 +8,7 @@ We intend to present key figures about the evolution of Mossack Fonseca's client
 # Research questions
 - What are the key figures about the evolution of Mossack Fonseca's clients at different scales over the span of 40 years ? How can we put these figures into historical (economy, laws, policies...) context ?
 - Is there a link between economic and financial indicators and the involvement of a country ? That is what are the main correlates of evasion ?
-- What are the additional insights we may extract from a network analysis of the Panama Papers ? That is network nodes and edges statistics, centrality measures, risky nodes, top communities, pattern recognitions with ML, specific country analysis and so on...
+- What are the additional insights we may extract from a network analysis of the Panama Papers ? That is network nodes and edges statistics, centrality measures, risky nodes to better understand every kind of actor and underlying relationships. Top communities extraction, pattern recognition with ML, specific country analysis and so on...
   
 # Dataset
 We will use the ICIJ Offshore Leaks Panama Papers Dataset found at: https://www.occrp.org/en/panamapapers/database  
@@ -17,17 +17,17 @@ We will also resort to additional data sources about countries economy, laws and
 
 # A list of internal milestones up until project milestone 2
 
-Load Dataset-Done
-Preliminary Data inspection-Done
-Preliminary Data transformation-Done
-Enitity key figures-Done
-Intermediary key figures-Done
-Officer key figures-Done
-Nodes population relationship-Done
-Put key figures into historical context-Done
-Load Dataset as a Network-To do
-Network basic statistics-To do
-What's next for Milestone 3 (i.e network analysis, specific country analysis, correlates of evasion)-To do
+Load Dataset-Done  
+Preliminary Data inspection-Done  
+Preliminary Data transformation-Done  
+Enitity key figures-Done  
+Intermediary key figures-Done  
+Officer key figures-Done  
+Nodes population relationship-Done  
+Put key figures into historical context-Done  
+Load Dataset as a Network-To do  
+Network basic statistics-To do  
+What's next for Milestone 3 (i.e network analysis, specific country analysis, correlates of evasion)-To do  
 
 # Questions for TAa
 
