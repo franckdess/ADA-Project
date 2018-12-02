@@ -9,7 +9,7 @@ We intend to present key figures about the evolution of Mossack Fonseca's client
 - What are the key figures about the evolution of Mossack Fonseca's clients at different scales over the span of 40 years ? How can we put these figures into historical (economy, laws, policies...) context ?
 - Is there a link between economic and financial indicators and the involvement of a country ? That is what are the main correlates of evasion ?
 - What are the additional insights we may extract from a network analysis of the Panama Papers ? What about a specific country analysis ?  
-See last section for more information
+See internal milestones for more information
   
 # Dataset
 We will use the ICIJ Offshore Leaks Panama Papers Dataset found at: https://www.occrp.org/en/panamapapers/database  
@@ -29,21 +29,23 @@ Put key figures into historical context-Done
 Load Dataset as a Network-Done    
 What's next for Milestone 3 (i.e network analysis, specific country analysis, correlates of evasion)-Done
 
+# A list of internal milestones up until project milestone 3
+Basic network statistics-Done  
+Network connected components-Done   
+Network clustering and density-Done  
+Is the network a small world-Done  
+Overall degree distribution-Done  
+Degree distribution per node type-Done  
+Is the degree distribution a power law-Done  
+Network pagerank-Done  
+Extract specific country ego graph-To do  
+Centrality measures-To do  
+Country communities-To do  
+Communities visualization-To do  
+  
+Correlates of evasion-To do
+
 # What's next for milestone 3
 
-Methods and concepts will be explained in depth as we perform the upcoming tasks. We will mainly perform social network analysis tasks. Here is a non exhaustive list of what to expect:  
-  
-Regarding network analysis:
-- Compute network nodes and edges statistics, distributions. For instance degrees distribution, centrality measures, betweenness measures, page rank and much more 
-- Extract and visualize top communities based on modularity measures (Gephi Force Atlas 2 viz ?)
-- Investigate possible applications of ML  
-- Perform a specific country analysis (most likely Switzerland)  
-  
-This will help to answer questions such as:  
-- Does the degree distribution follow a power law ? 
-- What are the "key" nodes (centrality, betweenness, rank) ?
-- Is the panama papers network a small world ? 
-- What is the shape of the network and what does this tell us about the actors ?
-  
 Regarding correlates of evasion:  
 Basically we want to extract economic and financial indicators (GDP, Financial Secrecy Index...) for each country found in the dataset then check whether these measures are good predictors (or not) of the involvement of a country in the papers.
