@@ -38,12 +38,14 @@ Overall degree distribution-Done
 Degree distribution per node type-Done  
 Is the degree distribution a power law-Done  
 Network pagerank-Done  
-Extract specific country ego graph-To do  
+Extract specific country ego graph-Done  
 Centrality measures-To do  
-Country communities-To do  
+Community extraction-To do  
 Communities visualization-To do  
+Investigation and discussion of results-To do  
   
-Correlates of evasion-To do
+Correlates of evasion-To do  
+Fraudulent entities inference-To do  
 
 # What's next for milestone 3
 
