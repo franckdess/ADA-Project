@@ -39,9 +39,9 @@ Degree distribution per node type-Done
 Is the degree distribution a power law-Done  
 Network pagerank-Done  
 Extract specific country ego graph-Done  
-Centrality measures-Done 
-Community extraction-Done
-Communities visualization-Done
+Centrality measures-Done  
+Community extraction-Done  
+Communities visualization-Done  
 Investigation and discussion of results-To do  
   
 Correlates of evasion-To do
