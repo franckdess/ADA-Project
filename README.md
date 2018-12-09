@@ -1,15 +1,15 @@
 # Diving deep into the Panama Papers
 
 # Abstract
-The Panama Papers are leaked documents that detail the internal operations of one of the world's biggest firms in incorporation of offshore entities, Mossack Fonseca. This Panamanian law firm and corporate service provider had financial and attorney-client information for more than 210 000 offshore entities revealed to the public. While offshore business entities are legal, reporters found that some of the Mossack Fonseca shell corporations were used for illegal purposes, namely fraud, tax evasion, and evading international sanctions.
-Therefore one may argue that it is of public and state interest to explore the Panama Papers in order to extract insights about the Key Players involved. To do so we will resort to the ICIJ Offshore Leaks Database.  
-We intend to present key figures about the evolution of Mossack Fonseca's clients at different scales over the span of 40 years. Moreover we will link our findings to the economy, laws and policies ecountered by the Key Actors. Finally we will conduct a social network analysis of the Panama Papers database to better understand its structure.
+The Panama Papers are arguably the largest leak of confidential data to date. They provide a wealth of knowledge by exposing previously hidden ties between corporations and their ecosystem.  This paper presents a social network analysis of the companies and individuals involved in this leak. We identified the countries in which the key players were operating, how we could predict the involvement of a country and what were the underlying relationships between the parties involved. We were able to shed light on the central actors of the network and provide further investigations on their connections.
+
+# Introduction
+The Panama Papers are leaked documents that detail the internal operations of one of the world's biggest firms in incorporation of offshore entities, Mossack Fonseca. This Panamanian law firm and corporate service provider had financial and attorney-client information for more than 210 000 offshore entities revealed to the public. While offshore business entities are legal, reporters found that some of the Mossack Fonseca shell corporations were used for illegal purposes, namely fraud, tax evasion, and evading international sanctions. Therefore one may argue that it is of public and state interest to explore the Panama Papers in order to extract insights about the key players involved. We intend to discover, analyse and explain the underlying relationships inside the Panama Papers.
 
 # Research questions
 What are the key figures about the evolution of Mossack Fonseca's clients at different scales over the span of 40 years ? How can we put these figures into historical (economy, laws, policies...) context ?  
 - What are the jurisdictions and countries with the most offshore entities ? Is the number of entities linked to the number of intermediaries and officers ?  
 - What is the evolution of the number of incorporated offshore companies for the last 50 years ? How does one explain it based on historical events ?  
-- What is the evolution of the number of bearer shareholders for the last 50 years ?  
   
 Is there a link between economic and financial indicators and the involvement of a country ? That is what are the main correlates of evasion ?  
   
@@ -25,7 +25,6 @@ The dataset has been made available as CSV files.
 We will also resort to additional data sources about countries economy, laws and policies for the last 50 years (links in notebook).
 
 # A list of internal milestones up until project milestone 2
-
 Load Dataset-Done  
 Preliminary Data inspection-Done  
 Preliminary Data transformation-Done  
