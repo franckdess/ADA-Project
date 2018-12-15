@@ -12,6 +12,7 @@ What are the key figures about the evolution of Mossack Fonseca's clients at dif
 - What is the evolution of the number of incorporated offshore companies for the last 50 years ? How does one explain it based on historical events ?  
   
 Is there a link between economic and financial indicators and the involvement of a country ? That is what are the main correlates of evasion ?  
+- Predict the involvement of a country based on financial and risk indicators. That is, find the correlates of evasion and discuss the relevance of commonly used metrics by regulators.  
   
 What are the insights we may extract from a social network analysis of the Panama Papers using a top down approach ? What about a specific country analysis ?    
 - Who are the key actors ? How can we quantify someone's importance in the papers ?  
@@ -21,7 +22,7 @@ What are the insights we may extract from a social network analysis of the Panam
   
 # Dataset
 We will use the ICIJ Offshore Leaks Panama Papers Dataset found at: https://www.occrp.org/en/panamapapers/database  
-The dataset has been made available as CSV files.  
+The dataset has been made available as 5 CSV files.  
 We will also resort to additional data sources about countries economy, laws and policies for the last 50 years (links in notebook).
 
 # A list of internal milestones up until project milestone 2
@@ -48,11 +49,14 @@ Network pagerank-Done
 Extract specific country ego graph-Done  
 Centrality measures-Done  
 Community extraction-Done  
-Communities visualization-Done  
-Investigation and discussion of results-Done  
-Correlates of evasion-Done
+Communities visualization-Done 
+Investigation of countries-Done  
+Loading financial indicators data-Done 
+Cleaning financial indicators data-Done  
+Correlates of evasion analysis-Done  
+Correlates of evasion results-Done  
 
 # Contributions
-Franck: Third research question with focus on specific countries analysis. Poster.  
+Franck: Third research question with focus on specific countries analysis. Report. Poster.  
 Cris: Second research question. Report.  
-Vincent: First research question and third research question with focus on full network analysis. Report. Presentation.
+Vincent: First research question and third research question with focus on full network analysis. Report. Presentation.  
