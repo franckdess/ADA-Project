@@ -1,5 +1,9 @@
 # Diving deep into the Panama Papers
 
+# Files
+- Project_main: Project analysis notebook
+- Project_report: Project report pdf
+
 # Abstract
 The Panama Papers are arguably the largest leak of confidential data to date. They provide a wealth of knowledge by exposing previously hidden ties between corporations and their ecosystem.  This paper presents a social network analysis of the companies and individuals involved in this leak. We identified the countries in which the key players were operating, how we could predict the involvement of a country and what were the underlying relationships between the parties involved. We were able to shed light on the central actors of the network and provide further investigations on their connections.
 
